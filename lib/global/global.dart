@@ -1,0 +1,6 @@
+import 'package:shared_preferences/shared_preferences.dart';
+
+SharedPreferences? sharedPreferences;
+
+String fcmServerToken =
+    "key=AAAAvT7zw2c:APA91bFr_OhgSXgSEsnBg6v_xqxjaNSZHwvHR1sKMIj42ngbG85MRGae2Z3JU611r8ipGsKQ6w01dPqNRVdi-OPnokU2BXYzyYI416qMvB0Zhz1hBvsDq11oB6d83lsVKYp1EhAqbhB3";
